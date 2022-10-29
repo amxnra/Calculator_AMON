@@ -12,3 +12,8 @@ Calculator_Amon application for counting numbers, developed in Windows Forms in 
 
 ![image](https://user-images.githubusercontent.com/97306928/198833938-6840064f-ecc6-4c2b-acab-eec969adf67d.png)
 
+Если нужно, можно изменить знак числа с помощью кнопки "+/-:"
+
+![image](https://user-images.githubusercontent.com/97306928/198833966-9fa6e5f3-912c-482d-b1ed-03230e69a829.png)
+
+
